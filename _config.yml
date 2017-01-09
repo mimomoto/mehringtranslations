@@ -1,0 +1,44 @@
+layout: layout
+
+navigation:
+  de:
+  - text: Home
+    url: /
+  - text: Profil
+    url: /profil.de.html
+  - text: Schwerpunkte
+    url: /schwerpunkte.de.html
+  - text: Sprachunterricht
+    url: /sprachunterricht.de.html
+  - text: Tarife
+    url: /tarife.de.html
+  - text: Kontakt
+    url: /kontakt.de.html
+
+  pt:
+  - text: Home
+    url: /index.pt.html
+  - text: Perfil
+    url: /perfil.pt.html
+  - text: Especialidades
+    url: /especialidades.pt.html
+  - text: Aulas de Alemão
+    url: /aulas.pt.html
+  - text: Preços
+    url: /precos.pt.html
+  - text: Contacto
+    url: /contacto.pt.html
+
+  nl:
+  - text: Home
+    url: /index.nl.html
+  - text: Profiel
+    url: /profiel.nl.html
+  - text: Specialisaties
+    url: /specialisaties.nl.html
+  - text: Duitse taalles
+    url: /taalles.nl.html
+  - text: Tarieven
+    url: /tarieven.nl.html
+  - text: Contact
+    url: /contact.nl.html
