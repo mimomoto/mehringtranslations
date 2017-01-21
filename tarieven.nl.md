@@ -35,10 +35,10 @@ Natuurlijk kunt u van tevoren bij ons een vrijblijvende en gratis offerte voor d
 
 ## Algemene Voorwaarden
 
-De <a href="http://www.ngtv.nl/m31/p49/algemene_voorwaarden_nl.html" target="_blank">Algemene Voorwaarden</a> van de Nederlandse _Genootschap voor Tolken en Vertalers (NGTV)_ zijn bij __Mehring Translations__ van toepassing.
+De <a href="https://www.ngtv.nl/kennisbank/zakelijk/algemene-voorwaarden" target="_blank">Algemene Voorwaarden</a> van de Nederlandse _Genootschap voor Tolken en Vertalers (NGTV)_ zijn bij __Mehring Translations__ van toepassing.
 
 
 
 ## Geheimhouding
 
-De vertaalster verplicht zich tot de geheimhouding conforme de door de _NGTV_ opgestelde <a href="http://www.ngtv.nl/m42/p52/erecode.html" target="_blank">Erecode</a> voor tolken en vertalers.
+De vertaalster verplicht zich tot de geheimhouding conforme de Algemene Voorwaarden van de NGTV.

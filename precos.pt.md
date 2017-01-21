@@ -33,9 +33,9 @@ Acolhemos com agrado o seu telefonema e será sempre bem-vindo no nosso escritó
 
 ## Termos e condições
 
-Na agência de tradução __Mehring Translations__ são válidos os <a href="http://www.ngtv.nl/m31/p49/algemene_voorwaarden_nl.html" target="_blank">termos e condições da <em>NGTV</em></a>.
+Na agência de tradução __Mehring Translations__ são válidos os <a href="https://www.ngtv.nl/kennisbank/zakelijk/algemene-voorwaarden" target="_blank">termos e condições da <em>NGTV</em></a>.
 
 
 ## Sigílio
 
-A tradutora mantem sigilio conforme o <a href="http://www.ngtv.nl/m42/p52/erecode.html" target="_blank">Codex de Honra</a> elaborado pela _NGTV._
+A tradutora mantem sigilio conforme os termos e condições da NGTV.

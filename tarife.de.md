@@ -33,8 +33,8 @@ Auf Wunsch erhalten Sie vorab ein unverbindliches und kostenloses Angebot zu den
 
 ## Allgemeine Geschäftsbedingungen
 
-Bei __Mehring Translations__ gelten die <a href="http://www.ngtv.nl/m31/p49/algemene_voorwaarden_nl.html" target="_blank">Allgemeinen Geschäftsbedingungen</a> der _Nederlandse Genootschap voor Tolken en Vertalers (NGTV)._
+Bei __Mehring Translations__ gelten die <a href="https://www.ngtv.nl/kennisbank/zakelijk/algemene-voorwaarden" target="_blank">Allgemeinen Geschäftsbedingungen</a> der _Nederlandse Genootschap voor Tolken en Vertalers (NGTV)._
 
 ## Geheimhaltung
 
-Die Übersetzerin verpflichtet sich zur Geheimhaltung gemäß dem von der _NGTV_ erstellten <a href="http://www.ngtv.nl/m42/p52/erecode.html" target="_blank">Ehrenkodex.</a>
+Die Übersetzerin verpflichtet sich zur Geheimhaltung gemäß den Allgemeinen Geschäftsbestimmungen des NGTV.
