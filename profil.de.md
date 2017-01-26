@@ -6,7 +6,6 @@ layout: layout
 # Profil
 
 <img src="images/veronika_mehring.jpg" alt="Veronika Mehring-von Lillienskiold" style="float:right; margin:0 20px 20px 20px;"/>
-mmm
 Inhaberin von __Mehring Translations__ ist die deutsche Diplom-Übersetzerin __Veronika Mehring-von Lillienskiold.__
 
 __Veronika Mehring-von Lillienskiold__ hat an den Universitäten Heidelberg, Lissabon und Nizza die Ausbildung zur Diplom-Übersetzerin in Portugiesisch und Französisch (mit dem Fachgebiet Recht) absolviert.
